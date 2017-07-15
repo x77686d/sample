@@ -1,2 +1,2 @@
-# Version 1
-print "Hello, World!"
+# Version 2
+print "Hello, World! (v2)"
